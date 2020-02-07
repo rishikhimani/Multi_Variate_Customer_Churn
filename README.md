@@ -1,7 +1,7 @@
 # Telecom Customer Churn
 
 ## Team Members
-- [Rishi Khimani](https://github.com/equitharn/)
+- [Rishi Khimani](https://github.com/rishikhimani/)
 - [Valencia Dias](https://github.com/Valencia3112/)
 - [Vinit Wani](https://gitlab.com/equitharn/)
 
