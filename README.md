@@ -6,7 +6,9 @@
 - [Vinit Wani](https://gitlab.com/equitharn/)
 
 ## Problem statement 
-Descriptive Analysis of telecom customer churn
+1. What are the factors affecting customer churn? 
+2. How are monthly and total charges related?
+3. How to predict customer churn and what is the best fit model?
 
 ## Data Dictionary
 
